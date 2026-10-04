@@ -1,2 +1,4 @@
 env/
 .env
+data/
+my_tasks.db
