@@ -6,3 +6,6 @@ langchain-ollama
 langchain-groq
 langchain-community
 langgraph
+langchain-chroma
+langchain-faiss 
+faiss-cpu
