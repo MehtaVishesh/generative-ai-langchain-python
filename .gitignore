@@ -3,3 +3,4 @@ env/
 data/
 my_tasks.db
 notebooks/vector_store_*
+apps/pdf_files
